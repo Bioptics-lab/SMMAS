@@ -1,0 +1,7 @@
+Place PWA-corrected four-view images here (or copy outputs of PWACorrection.m):
+  PWA1.tif
+  PWA2.tif
+  PWA3.tif
+  PWA4.tif
+
+ProcessPipeline_patch_every1frames_SingleLayerBeadsPWA.m writes reconstruction outputs into this folder.

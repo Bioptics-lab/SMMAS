@@ -1,0 +1,10 @@
+Place the four-view PSF stacks here:
+  file_1.tif
+  file_2.tif
+  file_3.tif
+  file_4.tif
+
+ProcessPipeline scripts write PSF_1205.mat into this folder.
+
+Optional input for decrosstalk_timeSequence.m:
+  PSF1_00004.tif

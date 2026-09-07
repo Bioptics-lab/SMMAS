@@ -1,0 +1,7 @@
+Place the uncorrected four-view images here:
+  processed_File1.tif
+  processed_File2.tif
+  processed_File3.tif
+  processed_File4.tif
+
+ProcessPipeline_patch_every1frames_SingleLayerBeads.m writes reconstruction outputs into this folder.

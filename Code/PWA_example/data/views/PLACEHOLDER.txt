@@ -1,0 +1,9 @@
+Place the four raw view images and the reconstructed reference image here, for example:
+  view0.tif  (reconstructed reference)
+  view1.tif
+  view2.tif
+  view3.tif
+  view4.tif
+
+Optional input for deCorrugatedNoise.m:
+  F_00002_4.tif

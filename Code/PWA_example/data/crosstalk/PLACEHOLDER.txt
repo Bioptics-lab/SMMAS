@@ -1,0 +1,3 @@
+Place the crosstalk mixing matrix here for decrosstalk_timeSequence.m:
+  mtxS_Beads_1127.mat
+  (variable name inside the MAT file: S)
