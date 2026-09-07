@@ -1,0 +1,42 @@
+
+ >>>>> started run at 06/09/2023 19:38:31Warning: cellpose did not import
+No module named 'cellpose'
+cannot use anatomical mode, but otherwise suite2p will run normally
+{'data_path': ['M:/TwoPhotonLightField/2022-11-09 Gcamp8_CA1/Region1/file_00005/Demix/Recording_stack/Reconstruction/Plane29'], 'subfolders': [], 'save_path0': 'M:/TwoPhotonLightField/2022-11-09 Gcamp8_CA1/Region1/file_00005/Demix/Recording_stack/Reconstruction/Plane29', 'fast_disk': 'M:/TwoPhotonLightField/2022-11-09 Gcamp8_CA1/Region1/file_00005/Demix/Recording_stack/Reconstruction/Plane29', 'input_format': 'tif'}
+tif
+** Found 1 tifs - converting to binary **
+2000 frames of binary, time 4.24 sec.
+4000 frames of binary, time 8.04 sec.
+time 9.86 sec. Wrote 5000 frames per binary for 1 planes
+>>>>>>>>>>>>>>>>>>>>> PLANE 0 <<<<<<<<<<<<<<<<<<<<<<
+NOTE: not registered / registration forced with ops['do_registration']>1
+      (no previous offsets to delete)
+----------- REGISTRATION
+registering 5000 frames
+Reference frame, 3.87 sec.
+Registered 2000/5000 in 15.26s
+Registered 4000/5000 in 30.25s
+added enhanced mean image
+----------- Total 43.26 sec
+Registration metrics, 6.85 sec.
+NOTE: applying default C:\Users\scanimage\.suite2p\classifiers\classifier_user.npy
+----------- ROI DETECTION
+Binning movie in chunks of length 60
+Binned movie [80,253,247] in 1.56 sec.
+NOTE: estimated spatial scale ~12 pixels, time epochs 1.00, threshold 10.00 
+0 ROIs, score=36.84
+Detected 222 ROIs, 1.90 sec
+After removing overlaps, 215 ROIs remain
+----------- Total 4.00 sec.
+----------- EXTRACTION
+Masks created, 0.34 sec.
+Extracted fluorescence from 215 ROIs in 5000 frames, 6.42 sec.
+----------- Total 6.84 sec.
+----------- CLASSIFICATION
+['skew', 'npix_norm', 'compact']
+----------- Total 0.02 sec.
+----------- SPIKE DECONVOLUTION
+----------- Total 0.06 sec.
+Plane 0 processed in 61.04 sec (can open in GUI).
+total = 70.92 sec.
+TOTAL RUNTIME 70.92 sec

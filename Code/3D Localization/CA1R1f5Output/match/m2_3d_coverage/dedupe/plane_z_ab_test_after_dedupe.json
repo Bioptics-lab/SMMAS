@@ -1,0 +1,33 @@
+{
+  "A": {
+    "score": 5.208333333333334,
+    "rec_med_abs_14": 7.0,
+    "trust_med_abs_14": 9.0,
+    "rec_median_z_14": -8.0,
+    "rec_med_abs_19": 3.0,
+    "trust_med_abs_19": 5.0,
+    "rec_median_z_19": -2.0,
+    "rec_med_abs_24": 3.0,
+    "trust_med_abs_24": 3.0,
+    "rec_median_z_24": 4.0,
+    "rec_med_abs_29": 5.0,
+    "trust_med_abs_29": 6.666666666666668,
+    "rec_median_z_29": 10.0
+  },
+  "B": {
+    "score": 16.083333333333332,
+    "rec_med_abs_14": 23.0,
+    "trust_med_abs_14": 21.0,
+    "rec_median_z_14": -8.0,
+    "rec_med_abs_19": 7.0,
+    "trust_med_abs_19": 9.0,
+    "rec_median_z_19": -2.0,
+    "rec_med_abs_24": 9.0,
+    "trust_med_abs_24": 9.0,
+    "rec_median_z_24": 4.0,
+    "rec_med_abs_29": 25.0,
+    "trust_med_abs_29": 25.666666666666664,
+    "rec_median_z_29": 10.0
+  },
+  "choose": "A"
+}

@@ -1,0 +1,10 @@
+{
+  "n_m2_before_dedupe": 228,
+  "n_m2_after_dedupe": 191,
+  "n_with_3d": 191,
+  "by_source": {
+    "matched_trusted": 48,
+    "recovered_bin_refined": 143
+  },
+  "dedupe_dir": "F:\\SMMAS-Revision\\3DLocalizationCA1R1f5\\CA1R1f5Output\\match\\m2_3d_coverage\\dedupe"
+}

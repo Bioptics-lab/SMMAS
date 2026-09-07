@@ -1,0 +1,11 @@
+{
+  "n_before": 228,
+  "n_after": 191,
+  "n_dropped": 37,
+  "n_pairs": 38,
+  "gates": {
+    "D_XY_MAX": 10.0,
+    "R_MIN": 0.6
+  },
+  "snr_def": " (p95 - median) / (mad(diff)/0.6745)"
+}
